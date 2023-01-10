@@ -1,0 +1,42 @@
+[
+    {
+        "name":"TrueShop",
+        "url":"https://www.trueshop.top/"
+    },
+    {
+        "name":"TrueSwap",
+        "url":"http://swap.trueshop.top/"
+    },
+    {
+        "name":"CrossChain",
+        "url":"http://crosschian.trueshop.top/"
+    },
+    {
+        "name":"NFTApplication",
+        "url":"http://transfer.trueshop.top/"
+    },
+    {
+        "name":"1inch",
+        "url":"https://1inch.exchange/"
+    },
+    {
+        "name":"Pancake Swap",
+        "url":"https://pancakeswap.finance/"
+    },
+    {
+        "name":"Uniswap",
+        "url":"https://uniswap.exchange/"
+    },
+    {
+        "name":"OpenSea",
+        "url":"https://opensea.io/"
+    },
+    {
+        "name":"Aave",
+        "url":"https://app.aave.com/"
+    },
+    {
+        "name":"CoinDesk",
+        "url":"https://www.coindesk.com/"
+    }
+]
