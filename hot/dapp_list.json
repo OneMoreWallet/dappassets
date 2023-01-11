@@ -45,8 +45,8 @@
 		"chains":[]
     },
     {
-        "name":"CoinDesk",
-        "url":"https://www.coindesk.com/",
-		"chains":[]
+        "name":"APENFT",
+        "url":"https://apenft.io/",
+		"chains":[184346700239]
     }
 ]
