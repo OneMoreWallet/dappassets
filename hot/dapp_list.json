@@ -1,42 +1,52 @@
 [
     {
         "name":"TrueShop",
-        "url":"https://www.trueshop.top/"
+        "url":"https://www.trueshop.top/",
+		"chains":[11552,56]
     },
     {
         "name":"TrueSwap",
-        "url":"http://swap.trueshop.top/"
+        "url":"http://swap.trueshop.top/",
+		"chains":[11552]
     },
     {
         "name":"CrossChain",
-        "url":"http://crosschian.trueshop.top/"
+        "url":"http://crosschian.trueshop.top/",
+		"chains":[11552,56]
     },
     {
         "name":"NFTApplication",
-        "url":"http://transfer.trueshop.top/"
+        "url":"http://transfer.trueshop.top/",
+		"chains":[11552]
     },
     {
         "name":"1inch",
-        "url":"https://1inch.exchange/"
+        "url":"https://1inch.exchange/",
+		"chains":[1,56,137]
     },
     {
         "name":"Pancake Swap",
-        "url":"https://pancakeswap.finance/"
+        "url":"https://pancakeswap.finance/",
+		"chains":[56]
     },
     {
         "name":"Uniswap",
-        "url":"https://uniswap.exchange/"
+        "url":"https://uniswap.exchange/",
+		"chains":[1,137]
     },
     {
         "name":"OpenSea",
-        "url":"https://opensea.io/"
+        "url":"https://opensea.io/",
+		"chains":[1]
     },
     {
         "name":"Aave",
-        "url":"https://app.aave.com/"
+        "url":"https://app.aave.com/",
+		"chains":[]
     },
     {
         "name":"CoinDesk",
-        "url":"https://www.coindesk.com/"
+        "url":"https://www.coindesk.com/",
+		"chains":[]
     }
 ]
